@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">shoppIt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share App</string>
+    <string name="shoppingListFragment_title">Shopping List:</string>
+    <string name="shoppingListFragment_buttonAdd">Add Item</string>
+    <string name="addItemFragment_title">Title</string>
+    <string name="addItemFragment_description">Description</string>
+    <string name="addItemFragment_submit">Submit</string>
+    <string name="addItemFragment_titleMissing">Please fill in a title</string>
+    <string name="addItemFragment_descriptionMissing">Please fill in a description</string>
+    <string name="activitySettings_lockListCB">Lock shopping list (when locked, Items can not be added)</string>
+    <string name="activitySettings_lockListToastMessage">List has been locked using settings menu... \\r\\n To unlock use settings</string>
+
+</resources>
